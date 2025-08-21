@@ -1,2 +1,1 @@
-# Limpa-chave-NFE
-Código simples que fiz para usar no serviço.
+Aqui no serviço tem as chaves NFE, elas vem com espaços de 4 em 4 números, e tinhamos que remover isso a mão, espaço por espaço, pois o sistema não aceita, então esse código só precisa copiar e colar a chave NFE espaçada e ele retorna a chave sem os espaços tudo certinho.
